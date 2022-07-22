@@ -1,0 +1,6 @@
+com/finndog/morebricks/MoreBricks.java
+ com.finndog.morebricks.MoreBricks
+com/finndog/morebricks/registry/ModItems.java
+ com.finndog.morebricks.registry.ModItems
+com/finndog/morebricks/registry/ModBlocks.java
+ com.finndog.morebricks.registry.ModBlocks
